@@ -11,6 +11,8 @@ import (
 const username = "jalbertson"
 const password = "b3stp@stw00rd3vA!"
 
+const pass = "abc"
+
 func main() {
 }
 
