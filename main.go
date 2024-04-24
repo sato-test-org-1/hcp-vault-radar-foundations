@@ -8,6 +8,12 @@ import (
 
 // Auth params
 
+const username = "jalbertson"
+const password = "b3stp@stw00rd3vA!"
+
+const pass = "abc"
+
+const passwordlist = "abc"
 
 func main() {
 }
