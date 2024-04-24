@@ -8,12 +8,12 @@ import (
 
 // Auth params
 
-const username = "jalbertson"
-const password = "b3stp@stw00rd3vA!"
+const username = "jalbertson" // HashiCorpIgnore
+const password = "b3stp@stw00rd3vA!" // HashiCorpIgnore
 
-const pass = "abc"
+const pass = "abc" // HashiCorpIgnore
 
-const passwordlist = "abc"
+const passwordlist = "abc" // HashiCorpIgnore
 
 func main() {
 }
